@@ -3,4 +3,4 @@
 
 ## Getting Started
 **Input:** A twitter hashtag and the limiting value of how many tweets are to be extracted. 
-**Output:** An HTML file
+**Output:** An HTML file, to be opened in any browser for displaying the map. 

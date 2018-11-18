@@ -14,6 +14,6 @@
 - [Tweepy](http://www.tweepy.org/) - An open source API for fetching twitter data. 
 - [Geopy](https://pypi.org/project/geopy/) - For geocoding the location name to latitude and longitude pairs. 
 
-## Acknowlegment 
+## Contributors 
 - [Debanik Banerjee](https://github.com/Debanik)
 - [Bidyudipta Chanda](https://github.com/bidyutchanda)

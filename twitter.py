@@ -1,6 +1,5 @@
 import folium
 import tweepy
-from openpyxl import Workbook
 from textblob import TextBlob
 import preprocessor as p
 from geopy.geocoders import Nominatim

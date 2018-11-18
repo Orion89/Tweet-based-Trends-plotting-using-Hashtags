@@ -6,13 +6,14 @@
 
 **Output:** An HTML file, to be opened in any browser for displaying the map. 
 
-*A sample HTML output file is uploaded to this repo where the hashtag input was 'MeToo' and the limiting value was 10.*
+*A sample HTML output file is uploaded to this repo where the hashtag input was 'bjp' and the limiting value was 1000.*
 
 ## Built With
 - [TextBlob](https://textblob.readthedocs.io/en/dev/) - For sentimentally analysing the tweets. 
 - [Folium](https://github.com/python-visualization/folium) - For creating a Leaflet map from location parameters. 
 - [Tweepy](http://www.tweepy.org/) - An open source API for fetching twitter data. 
 - [Geopy](https://pypi.org/project/geopy/) - For geocoding the location name to latitude and longitude pairs. 
+- [Tweet-Preprocessor](https://pypi.org/project/tweet-preprocessor/) - For cleaning the tweets
 
 ## Contributors 
 - [Debanik Banerjee](https://github.com/Debanik)

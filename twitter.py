@@ -5,10 +5,10 @@ from textblob import TextBlob
 import preprocessor as p
 from geopy.geocoders import Nominatim
 #input your credentials here
-consumer_key = "jedN8eSwXoEuBwz5eHwFrGwbd"
-consumer_secret = "BM9oKPoTot47YRFUo4378Ov4Jzfwz4Zf20bkuk84y9aMC2H5Wr"
-access_token = "113678439-akUhAwJoSKt3Taw5vfWAnn8KgrPeShD6hxR96fMi"
-access_secret = "PldNZ2VvyFzqbHtYQ0d2AeGZ9VoFYvJks06cbjdSblep9"
+consumer_key = "<Your Consumer Key Goes Here>"
+consumer_secret = "<Your Consumer Secret Token Goes Here>"
+access_token = "<Your Acsess Token Goes Here>"
+access_secret = "<Your Acsess Secret Token Goes Here>"
 #twitter authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)

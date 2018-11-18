@@ -10,4 +10,10 @@
 
 ## Built With
 - [TextBlob](https://textblob.readthedocs.io/en/dev/) - For sentimentally analysing the tweets. 
+- [Folium](https://github.com/python-visualization/folium) - For creating a Leaflet map from location parameters. 
+- [Tweepy](http://www.tweepy.org/) - An open source API for fetching twitter data. 
+- [Geopy](https://pypi.org/project/geopy/) - For geocoding the location name to latitude and longitude pairs. 
 
+## Acknowlegment 
+- [Debanik Banerjee](https://github.com/Debanik)
+- [Bidyudipta Chanda](https://github.com/bidyutchanda)

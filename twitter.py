@@ -6,7 +6,7 @@ from geopy.geocoders import Nominatim
 
 
 def main(a, b, c, d):
-    # input your credentials here
+    '''Function to geocode the location data, perform sentiment analysis and plot on the map'''
     consumer_key = a
     consumer_secret = b
     access_token = c
@@ -58,6 +58,7 @@ def main(a, b, c, d):
     
     
 if __name__ == '__main__':
+    '''INPUT YOUR CREDENTIALS HERE'''
     consumer_key = ""
     consumer_secret = ""
     access_token = ""

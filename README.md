@@ -7,3 +7,7 @@
 **Output:** An HTML file, to be opened in any browser for displaying the map. 
 
 *A sample HTML output file is uploaded to this repo where the hashtag input was 'MeToo' and the limiting value was 10.*
+
+## Built With
+- [TextBlob](https://textblob.readthedocs.io/en/dev/) - For sentimentally analysing the tweets. 
+
